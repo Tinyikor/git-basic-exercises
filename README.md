@@ -1,1 +1,1 @@
-first git exercise
+Learning git and committing on git
