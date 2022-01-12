@@ -1,1 +1,1 @@
-Learning git and committing on git
+Committing and creating branches on git
